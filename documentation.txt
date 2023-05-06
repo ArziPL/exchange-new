@@ -1,0 +1,9 @@
+PROJECT :
+
+- Next.js
+- MUI/Tailwind
+- Zustand
+- Prisma
+- Postgres
+- CoinMarketCap for assets (https://coinmarketcap.com/api/documentation/v1/#section/Authentication)
+- crypto-articles-api from GitHub'a
